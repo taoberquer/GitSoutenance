@@ -29,8 +29,11 @@ http://localhost:80
 ## Maintainers
 
 [@taoberquer](https://github.com/taoberquer)
+
 [@tdargent1](https://github.com/tdargent1)
+
 [@remibrat](https://github.com/remibrat)
+
 [@ludoviccollignon](https://github.com/ludoviccollignon)
 
 ## Contributing
