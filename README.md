@@ -1,4 +1,4 @@
-# gitsoutenance
+# GitSoutenance
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
@@ -14,17 +14,24 @@
 
 ## Install
 
+You just need to download the project then launch it in your dev environement.
+
 ```
+git clone git@github.com:taoberquer/GitSoutenance.git
 ```
 
 ## Usage
 
 ```
+http://localhost:80
 ```
 
 ## Maintainers
 
 [@taoberquer](https://github.com/taoberquer)
+[@tdargent1](https://github.com/tdargent1)
+[@remibrat](https://github.com/remibrat)
+[@ludoviccollignon](https://github.com/ludoviccollignon)
 
 ## Contributing
 
